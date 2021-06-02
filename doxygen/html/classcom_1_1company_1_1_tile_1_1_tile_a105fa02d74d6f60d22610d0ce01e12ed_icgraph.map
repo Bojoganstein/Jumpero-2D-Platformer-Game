@@ -1,0 +1,5 @@
+<map id="com.company.Tile.Tile.getY" name="com.company.Tile.Tile.getY">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="465,5,673,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_tile_1_1_tile.html#a1cda93cb685e41e5e588e3e93e1d1879" title="com.company.Tile.Tile.get\lBounds" alt="" coords="239,53,415,94"/>
+<area shape="rect" id="node4" href="$classcom_1_1company_1_1_entity_1_1_walker.html#aeaeb75a36b8525dca34e4ba52fb2f0db" title="com.company.Entity.Walker.tick" alt="" coords="463,60,675,87"/>
+</map>

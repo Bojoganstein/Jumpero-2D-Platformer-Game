@@ -1,0 +1,15 @@
+<map id="com.company.Game.Game.tick" name="com.company.Game.Game.tick">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_game_1_1_handler.html#a061cba386f4dbed83992c8f399fdc247" title="com.company.Game.Handler.tick" alt="" coords="272,56,489,83"/>
+<area shape="rect" id="node5" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a5201625194f0e85fc9e7de384de4bd6d" title="com.company.Entity.Entity.getId" alt="" coords="274,128,487,155"/>
+<area shape="rect" id="node6" href="$classcom_1_1company_1_1_game_1_1_camera.html#aa35313020015a3ced2b681bdb39691fb" title="com.company.Game.Camera.tick" alt="" coords="271,179,490,205"/>
+<area shape="rect" id="node11" href="$classcom_1_1company_1_1_game_1_1_handler.html#abbafae41c3963289bdff10fc323a02cf" title="com.company.Game.Handler.clearLvl" alt="" coords="260,229,501,256"/>
+<area shape="rect" id="node12" href="$classcom_1_1company_1_1_game_1_1_handler.html#a87b74697613c498c72a0b2f5636c2020" title="com.company.Game.Handler.create\lLevel" alt="" coords="265,302,497,343"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a29e29e39e7fee142e3d4951f4723c233" title="com.company.Entity.Entity.tick" alt="" coords="566,5,771,32"/>
+<area shape="rect" id="node4" href="$classcom_1_1company_1_1_tile_1_1_tile.html#a36cd5f328cbb0a6449de3530c75a33cb" title="com.company.Tile.Tile.tick" alt="" coords="579,56,758,83"/>
+<area shape="rect" id="node7" href="$classcom_1_1company_1_1_game_1_1_camera.html#a7a676e36a3429dbcfe5d15e5d80318bc" title="com.company.Game.Camera.setX" alt="" coords="557,107,781,133"/>
+<area shape="rect" id="node8" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a86b5ffabfd203023f1eefd3dde9d9908" title="com.company.Entity.Entity.getX" alt="" coords="563,157,774,184"/>
+<area shape="rect" id="node9" href="$classcom_1_1company_1_1_game_1_1_camera.html#a761811ebd81db3881ed9404fbf3c9412" title="com.company.Game.Camera.setY" alt="" coords="557,208,781,235"/>
+<area shape="rect" id="node10" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a4dba66af481400531ba377c0d3f1258f" title="com.company.Entity.Entity.getY" alt="" coords="563,259,774,285"/>
+<area shape="rect" id="node13" href="$classcom_1_1company_1_1_game_1_1_handler.html#a2810d653a7318a055ee5fd3621bf8f07" title="com.company.Game.Handler.addTile" alt="" coords="549,309,788,336"/>
+<area shape="rect" id="node14" href="$classcom_1_1company_1_1_game_1_1_handler.html#a60bca5267e6906bf1e7f657b0120d71f" title="com.company.Game.Handler.add\lEntity" alt="" coords="560,361,777,402"/>
+</map>

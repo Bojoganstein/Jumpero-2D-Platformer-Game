@@ -1,0 +1,4 @@
+<map id="com.company.Tile.Tile.Tile" name="com.company.Tile.Tile.Tile">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_tile_1_1_tile.html#ac3d756365f12dffec417701ed13e6268" title="com.company.Tile.Tile.render" alt="" coords="232,5,427,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_tile_1_1_tile.html#a36cd5f328cbb0a6449de3530c75a33cb" title="com.company.Tile.Tile.tick" alt="" coords="240,56,419,83"/>
+</map>

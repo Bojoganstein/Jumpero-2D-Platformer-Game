@@ -1,0 +1,12 @@
+<map id="com.company.Entity.Player.Colision" name="com.company.Entity.Player.Colision">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a5201625194f0e85fc9e7de384de4bd6d" title="com.company.Entity.Entity.getId" alt="" coords="240,5,453,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a851c8c6c62ed92b118fcf9cb7e3514b1" title="com.company.Entity.Entity.get\lBoundsBottom" alt="" coords="245,57,448,98"/>
+<area shape="rect" id="node6" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a418b91bf4e81ffc92a986c8b98345946" title="com.company.Entity.Entity.get\lBoundsTop" alt="" coords="245,122,448,163"/>
+<area shape="rect" id="node7" href="$classcom_1_1company_1_1_entity_1_1_entity.html#ae65ee97f4046d3c2c43bb6bbebc061e4" title="com.company.Entity.Entity.die" alt="" coords="246,253,447,280"/>
+<area shape="rect" id="node11" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a93c198b5134024dfb523d346f907360d" title="com.company.Entity.Entity.get\lBounds" alt="" coords="245,187,448,229"/>
+<area shape="rect" id="node4" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a86b5ffabfd203023f1eefd3dde9d9908" title="com.company.Entity.Entity.getX" alt="" coords="515,132,726,159"/>
+<area shape="rect" id="node5" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a4dba66af481400531ba377c0d3f1258f" title="com.company.Entity.Entity.getY" alt="" coords="515,81,726,108"/>
+<area shape="rect" id="node8" href="$classcom_1_1company_1_1_game_1_1_handler.html#af05f472892cc15cceade289e5111cc5f" title="com.company.Game.Handler.remove\lEntity" alt="" coords="501,187,740,229"/>
+<area shape="rect" id="node9" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a5b85a71a9d7525fcea07a8c305209388" title="com.company.Entity.Entity.render" alt="" coords="511,253,731,280"/>
+<area shape="rect" id="node10" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a29e29e39e7fee142e3d4951f4723c233" title="com.company.Entity.Entity.tick" alt="" coords="518,304,723,331"/>
+</map>

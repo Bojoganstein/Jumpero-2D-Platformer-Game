@@ -1,0 +1,6 @@
+<map id="com.company.Game.Game.nextLvl" name="com.company.Game.Game.nextLvl">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_game_1_1_handler.html#abbafae41c3963289bdff10fc323a02cf" title="com.company.Game.Handler.clearLvl" alt="" coords="281,5,523,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_game_1_1_handler.html#a87b74697613c498c72a0b2f5636c2020" title="com.company.Game.Handler.create\lLevel" alt="" coords="286,57,518,98"/>
+<area shape="rect" id="node4" href="$classcom_1_1company_1_1_game_1_1_handler.html#a2810d653a7318a055ee5fd3621bf8f07" title="com.company.Game.Handler.addTile" alt="" coords="571,35,809,61"/>
+<area shape="rect" id="node5" href="$classcom_1_1company_1_1_game_1_1_handler.html#a60bca5267e6906bf1e7f657b0120d71f" title="com.company.Game.Handler.add\lEntity" alt="" coords="581,86,799,127"/>
+</map>

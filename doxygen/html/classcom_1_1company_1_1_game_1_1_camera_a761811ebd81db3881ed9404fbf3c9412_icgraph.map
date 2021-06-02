@@ -1,0 +1,5 @@
+<map id="com.company.Game.Camera.setY" name="com.company.Game.Camera.setY">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_game_1_1_camera.html#aa35313020015a3ced2b681bdb39691fb" title="com.company.Game.Camera.tick" alt="" coords="277,5,496,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_game_1_1_game.html#a15b8ab55bd0dcd14c032b98d38668e0d" title="com.company.Game.Game.tick" alt="" coords="544,5,751,32"/>
+<area shape="rect" id="node4" href="$classcom_1_1company_1_1_game_1_1_game.html#abe6d3e8e66a86609a19f088b284754cb" title="com.company.Game.Game.run" alt="" coords="799,5,1003,32"/>
+</map>

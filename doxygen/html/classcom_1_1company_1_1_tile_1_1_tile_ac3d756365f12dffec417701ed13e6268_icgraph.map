@@ -1,0 +1,6 @@
+<map id="com.company.Tile.Tile.render" name="com.company.Tile.Tile.render">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_game_1_1_handler.html#a2a4460b1d5ea7ab55eff715a63f9ef36" title="com.company.Game.Handler.render" alt="" coords="248,5,480,32"/>
+<area shape="rect" id="node5" href="$classcom_1_1company_1_1_tile_1_1_tile.html#a4cca80e397b640207f79d0dd158fa25e" title="com.company.Tile.Tile.Tile" alt="" coords="275,56,453,83"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_game_1_1_game.html#a16c0588c63140084e9cf6611c634f0c7" title="com.company.Game.Game.render" alt="" coords="528,5,751,32"/>
+<area shape="rect" id="node4" href="$classcom_1_1company_1_1_game_1_1_game.html#abe6d3e8e66a86609a19f088b284754cb" title="com.company.Game.Game.run" alt="" coords="799,5,1003,32"/>
+</map>

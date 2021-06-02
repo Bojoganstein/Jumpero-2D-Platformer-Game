@@ -1,0 +1,5 @@
+<map id="com.company.Entity.Player" name="com.company.Entity.Player">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_entity.html" title="com.company.Entity.Entity" alt="" coords="206,199,386,225"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_game_1_1_handler.html" title="com.company.Game.Handler" alt="" coords="100,109,292,136"/>
+<area shape="rect" id="node6" href="$enumcom_1_1company_1_1_game_1_1_id.html" title="com.company.Game.Id" alt="" coords="317,109,475,136"/>
+</map>

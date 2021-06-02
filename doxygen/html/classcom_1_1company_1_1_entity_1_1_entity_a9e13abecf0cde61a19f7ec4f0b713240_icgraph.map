@@ -1,0 +1,5 @@
+<map id="com.company.Entity.Entity.setVelY" name="com.company.Entity.Entity.setVelY">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="289,5,497,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_walker.html#aeaeb75a36b8525dca34e4ba52fb2f0db" title="com.company.Entity.Walker.tick" alt="" coords="287,56,499,83"/>
+<area shape="rect" id="node4" href="$classcom_1_1company_1_1_input_1_1_key_input.html#abc9e56f21424eaaf69b40b2877684019" title="com.company.Input.KeyInput.key\lReleased" alt="" coords="284,107,503,149"/>
+</map>

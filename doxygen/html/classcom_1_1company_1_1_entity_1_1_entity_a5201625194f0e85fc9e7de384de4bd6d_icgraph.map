@@ -1,0 +1,8 @@
+<map id="com.company.Entity.Entity.getId" name="com.company.Entity.Entity.getId">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_player.html#ae532596ed8fe3b81f9f7d2680c7e5a72" title="com.company.Entity.Player.\lColision" alt="" coords="283,5,469,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1company_1_1_game_1_1_game.html#a15b8ab55bd0dcd14c032b98d38668e0d" title="com.company.Game.Game.tick" alt="" coords="273,71,479,98"/>
+<area shape="rect" id="node6" href="$classcom_1_1company_1_1_input_1_1_key_input.html#a00324948a7f9154d337c8c77671122df" title="com.company.Input.KeyInput.key\lPressed" alt="" coords="267,123,485,164"/>
+<area shape="rect" id="node7" href="$classcom_1_1company_1_1_input_1_1_key_input.html#abc9e56f21424eaaf69b40b2877684019" title="com.company.Input.KeyInput.key\lReleased" alt="" coords="267,188,485,229"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="533,13,741,39"/>
+<area shape="rect" id="node5" href="$classcom_1_1company_1_1_game_1_1_game.html#abe6d3e8e66a86609a19f088b284754cb" title="com.company.Game.Game.run" alt="" coords="535,71,739,98"/>
+</map>

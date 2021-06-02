@@ -1,0 +1,4 @@
+<map id="com.company.Game.Handler.removeTile" name="com.company.Game.Handler.removeTile">
+<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="313,5,521,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1company_1_1_tile_1_1_tile.html#afd4e46eea6a77331698851e30426f18d" title="com.company.Tile.Tile.die" alt="" coords="330,56,505,83"/>
+</map>
