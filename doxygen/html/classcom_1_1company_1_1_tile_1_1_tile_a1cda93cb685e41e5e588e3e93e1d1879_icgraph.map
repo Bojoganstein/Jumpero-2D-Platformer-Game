@@ -1,4 +1,0 @@
-<map id="com.company.Tile.Tile.getBounds" name="com.company.Tile.Tile.getBounds">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="231,5,439,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_walker.html#aeaeb75a36b8525dca34e4ba52fb2f0db" title="com.company.Entity.Walker.tick" alt="" coords="229,56,441,83"/>
-</map>

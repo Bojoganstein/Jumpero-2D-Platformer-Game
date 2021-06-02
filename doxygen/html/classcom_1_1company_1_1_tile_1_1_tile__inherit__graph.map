@@ -1,5 +1,0 @@
-<map id="com.company.Tile.Tile" name="com.company.Tile.Tile">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_tile_1_1_coin.html" title="com.company.Tile.Coin" alt="" coords="5,80,165,107"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_tile_1_1_portal.html" title="com.company.Tile.Portal" alt="" coords="190,80,357,107"/>
-<area shape="rect" id="node4" href="$classcom_1_1company_1_1_tile_1_1_wall.html" title="com.company.Tile.Wall" alt="" coords="381,80,539,107"/>
-</map>

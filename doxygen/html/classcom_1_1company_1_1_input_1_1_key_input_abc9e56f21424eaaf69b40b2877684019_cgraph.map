@@ -1,5 +1,0 @@
-<map id="com.company.Input.KeyInput.keyReleased" name="com.company.Input.KeyInput.keyReleased">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a5201625194f0e85fc9e7de384de4bd6d" title="com.company.Entity.Entity.getId" alt="" coords="281,5,494,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a9e13abecf0cde61a19f7ec4f0b713240" title="com.company.Entity.Entity.setVelY" alt="" coords="272,56,503,83"/>
-<area shape="rect" id="node4" href="$classcom_1_1company_1_1_entity_1_1_entity.html#af586ec0840fb919f9fe88c4aedd1145d" title="com.company.Entity.Entity.setVelX" alt="" coords="272,107,503,133"/>
-</map>

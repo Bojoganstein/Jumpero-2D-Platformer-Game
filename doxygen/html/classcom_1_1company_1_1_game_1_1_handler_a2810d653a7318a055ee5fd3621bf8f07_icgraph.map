@@ -1,7 +1,0 @@
-<map id="com.company.Game.Handler.addTile" name="com.company.Game.Handler.addTile">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_game_1_1_handler.html#a87b74697613c498c72a0b2f5636c2020" title="com.company.Game.Handler.create\lLevel" alt="" coords="292,23,524,65"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_game_1_1_game.html#a15b8ab55bd0dcd14c032b98d38668e0d" title="com.company.Game.Game.tick" alt="" coords="583,5,789,32"/>
-<area shape="rect" id="node5" href="$classcom_1_1company_1_1_game_1_1_game.html#a46072f145b3c9d517828bb804c0dd56d" title="com.company.Game.Game.nextLvl" alt="" coords="572,56,800,83"/>
-<area shape="rect" id="node4" href="$classcom_1_1company_1_1_game_1_1_game.html#abe6d3e8e66a86609a19f088b284754cb" title="com.company.Game.Game.run" alt="" coords="850,5,1054,32"/>
-<area shape="rect" id="node6" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="848,56,1056,83"/>
-</map>

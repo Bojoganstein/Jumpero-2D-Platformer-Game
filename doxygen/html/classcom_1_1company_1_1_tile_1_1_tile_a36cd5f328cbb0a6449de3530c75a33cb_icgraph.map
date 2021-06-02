@@ -1,6 +1,0 @@
-<map id="com.company.Tile.Tile.tick" name="com.company.Tile.Tile.tick">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_game_1_1_handler.html#a061cba386f4dbed83992c8f399fdc247" title="com.company.Game.Handler.tick" alt="" coords="232,5,449,32"/>
-<area shape="rect" id="node5" href="$classcom_1_1company_1_1_tile_1_1_tile.html#a4cca80e397b640207f79d0dd158fa25e" title="com.company.Tile.Tile.Tile" alt="" coords="251,56,430,83"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_game_1_1_game.html#a15b8ab55bd0dcd14c032b98d38668e0d" title="com.company.Game.Game.tick" alt="" coords="497,5,704,32"/>
-<area shape="rect" id="node4" href="$classcom_1_1company_1_1_game_1_1_game.html#abe6d3e8e66a86609a19f088b284754cb" title="com.company.Game.Game.run" alt="" coords="752,5,956,32"/>
-</map>

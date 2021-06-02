@@ -1,5 +1,0 @@
-<map id="com.company.Game.Handler.removeEntity" name="com.company.Game.Handler.removeEntity">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_entity.html#ae65ee97f4046d3c2c43bb6bbebc061e4" title="com.company.Entity.Entity.die" alt="" coords="292,13,493,39"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_player.html#ae532596ed8fe3b81f9f7d2680c7e5a72" title="com.company.Entity.Player.\lColision" alt="" coords="541,5,728,47"/>
-<area shape="rect" id="node4" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="776,13,984,39"/>
-</map>

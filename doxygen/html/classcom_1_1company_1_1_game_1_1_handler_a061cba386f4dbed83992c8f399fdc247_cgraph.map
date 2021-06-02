@@ -1,4 +1,0 @@
-<map id="com.company.Game.Handler.tick" name="com.company.Game.Handler.tick">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a29e29e39e7fee142e3d4951f4723c233" title="com.company.Entity.Entity.tick" alt="" coords="271,5,476,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_tile_1_1_tile.html#a36cd5f328cbb0a6449de3530c75a33cb" title="com.company.Tile.Tile.tick" alt="" coords="284,56,463,83"/>
-</map>

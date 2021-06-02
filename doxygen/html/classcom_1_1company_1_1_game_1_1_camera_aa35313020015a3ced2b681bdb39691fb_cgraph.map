@@ -1,6 +1,0 @@
-<map id="com.company.Game.Camera.tick" name="com.company.Game.Camera.tick">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_game_1_1_camera.html#a7a676e36a3429dbcfe5d15e5d80318bc" title="com.company.Game.Camera.setX" alt="" coords="272,5,496,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a86b5ffabfd203023f1eefd3dde9d9908" title="com.company.Entity.Entity.getX" alt="" coords="279,56,489,83"/>
-<area shape="rect" id="node4" href="$classcom_1_1company_1_1_game_1_1_camera.html#a761811ebd81db3881ed9404fbf3c9412" title="com.company.Game.Camera.setY" alt="" coords="272,107,496,133"/>
-<area shape="rect" id="node5" href="$classcom_1_1company_1_1_entity_1_1_entity.html#a4dba66af481400531ba377c0d3f1258f" title="com.company.Entity.Entity.getY" alt="" coords="279,157,489,184"/>
-</map>

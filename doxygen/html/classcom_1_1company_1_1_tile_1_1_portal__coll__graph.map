@@ -1,5 +1,0 @@
-<map id="com.company.Tile.Portal" name="com.company.Tile.Portal">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_tile_1_1_tile.html" title="com.company.Tile.Tile" alt="" coords="219,199,373,225"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_game_1_1_handler.html" title="com.company.Game.Handler" alt="" coords="100,109,292,136"/>
-<area shape="rect" id="node6" href="$enumcom_1_1company_1_1_game_1_1_id.html" title="com.company.Game.Id" alt="" coords="317,109,475,136"/>
-</map>

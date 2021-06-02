@@ -1,8 +1,0 @@
-<map id="com.company.Entity.Entity.render" name="com.company.Entity.Entity.render">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_entity_1_1_entity.html#ae65ee97f4046d3c2c43bb6bbebc061e4" title="com.company.Entity.Entity.die" alt="" coords="289,15,490,42"/>
-<area shape="rect" id="node5" href="$classcom_1_1company_1_1_game_1_1_handler.html#a2a4460b1d5ea7ab55eff715a63f9ef36" title="com.company.Game.Handler.render" alt="" coords="273,67,505,94"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_entity_1_1_player.html#ae532596ed8fe3b81f9f7d2680c7e5a72" title="com.company.Entity.Player.\lColision" alt="" coords="571,5,758,47"/>
-<area shape="rect" id="node4" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="824,13,1032,39"/>
-<area shape="rect" id="node6" href="$classcom_1_1company_1_1_game_1_1_game.html#a16c0588c63140084e9cf6611c634f0c7" title="com.company.Game.Game.render" alt="" coords="553,71,776,98"/>
-<area shape="rect" id="node7" href="$classcom_1_1company_1_1_game_1_1_game.html#abe6d3e8e66a86609a19f088b284754cb" title="com.company.Game.Game.run" alt="" coords="826,71,1030,98"/>
-</map>

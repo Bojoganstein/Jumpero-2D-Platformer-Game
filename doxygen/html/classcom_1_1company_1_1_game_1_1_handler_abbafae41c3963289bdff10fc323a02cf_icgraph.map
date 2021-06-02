@@ -1,6 +1,0 @@
-<map id="com.company.Game.Handler.clearLvl" name="com.company.Game.Handler.clearLvl">
-<area shape="rect" id="node2" href="$classcom_1_1company_1_1_game_1_1_game.html#a15b8ab55bd0dcd14c032b98d38668e0d" title="com.company.Game.Game.tick" alt="" coords="305,5,512,32"/>
-<area shape="rect" id="node4" href="$classcom_1_1company_1_1_game_1_1_game.html#a46072f145b3c9d517828bb804c0dd56d" title="com.company.Game.Game.nextLvl" alt="" coords="295,56,523,83"/>
-<area shape="rect" id="node3" href="$classcom_1_1company_1_1_game_1_1_game.html#abe6d3e8e66a86609a19f088b284754cb" title="com.company.Game.Game.run" alt="" coords="573,5,777,32"/>
-<area shape="rect" id="node5" href="$classcom_1_1company_1_1_entity_1_1_player.html#a4a8e4c6e8c12cfe4bcb0209353009d70" title="com.company.Entity.Player.tick" alt="" coords="571,56,779,83"/>
-</map>
